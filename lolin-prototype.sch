@@ -351,7 +351,7 @@ U 1 1 59DF60FB
 P 6350 1250
 F 0 "J4" H 6350 1400 50  0000 C CNN
 F 1 "proto-space" V 6450 1250 50  0000 C CNN
-F 2 "libs:proto-12x12" H 6350 1250 50  0001 C CNN
+F 2 "libs:proto-board" H 6350 1250 50  0001 C CNN
 F 3 "" H 6350 1250 50  0001 C CNN
 	1    6350 1250
 	-1   0    0    1   
